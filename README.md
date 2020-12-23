@@ -101,3 +101,6 @@ any prior knowledge of image processing.
 Moreover, such software will also be an
 useful application for revamping historical
 paintings and photographs.
+
+Model used- Since the size of model is very large, I could not upload it on github. Here is the link to download it
+http://colorization.eecs.berkeley.edu/siggraph/models/model.caffemodel
