@@ -104,3 +104,13 @@ paintings and photographs.
 
 Model used- Since the size of model is very large, I could not upload it on github. Here is the link to download it
 http://colorization.eecs.berkeley.edu/siggraph/models/model.caffemodel
+
+REFERENCE
+
+[1] Zhang, R., Zhu, J.Y., Isola, P., Geng,
+X., Lin, A.S., Yu, T. and Efros, A.A.,
+2017. Real-time user-guided image
+colorization with learned deep priors.
+arXiv preprint arXiv:1705.02999.
+[2] Colorizing B&W Photos with Neural
+Networks
