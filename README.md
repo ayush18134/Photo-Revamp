@@ -112,5 +112,8 @@ X., Lin, A.S., Yu, T. and Efros, A.A.,
 2017. Real-time user-guided image
 colorization with learned deep priors.
 arXiv preprint arXiv:1705.02999.
+
 [2] Colorizing B&W Photos with Neural
 Networks
+
+Special thanks to Jun-Yan Zhu
