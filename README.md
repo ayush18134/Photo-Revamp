@@ -102,6 +102,8 @@ Moreover, such software will also be an
 useful application for revamping historical
 paintings and photographs.
 
+This repository also contains the process of importing caffe on notebook. It is important to uncomment cpu only from the caafe file which will be extracted while installing caffe. 
+
 Model used- Since the size of model is very large, I could not upload it on github. Here is the link to download it
 http://colorization.eecs.berkeley.edu/siggraph/models/model.caffemodel
 
